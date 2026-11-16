@@ -36,6 +36,23 @@ TCGA-ESCA-Esophageal-Cancer/
     └── README.md
 ```
 
+## Analysis figures
+
+### Volcano plot
+![Volcano plot](figures/volcano_plot.png)
+
+### PCA plot
+![PCA plot](figures/pca_plot.png)
+
+### Heatmap
+![Heatmap](figures/heatmap.png)
+
+### RNA type distribution
+![RNA type distribution](figures/rna_type_distribution.png)
+
+### rlog barplot
+![rlog barplot](figures/rlog_barplot.png)
+
 ## Main tools
 
 - R
